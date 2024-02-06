@@ -2,25 +2,46 @@ Non-Commercial ShareAlike Software License (NCSSL) Version 1.0
 
 Definitions
 
-"The Software" refers to the software distributed under this license, including its source code, binaries, and associated documentation.
+"The Software" refers to the software distributed under this license,
+including its source code, binaries, and associated documentation.
 
-"Commercial Use" includes, but is not limited to, any use of the Software for commercial advantage or monetary compensation. This excludes use by educational institutions, non-profit organizations, and open-source projects that may receive donations, provided such use does not primarily aim for commercial advantage or monetary gain. Examples of prohibited commercial use include, but are not limited to, selling the Software or its derivatives, using the Software to provide paid services, or incorporating the Software into products or services that are sold.
+"Commercial Use" includes, but is not limited to, any use of the Software
+for commercial advantage or monetary compensation. This excludes use by
+educational institutions, non-profit organizations, and open-source projects
+that may receive donations, provided such use does not primarily aim for
+commercial advantage or monetary gain. Examples of prohibited commercial use
+include, but are not limited to, selling the Software or its derivatives,
+using the Software to provide paid services, or incorporating the Software
+into products or services that are sold.
 
-"Derivative Works" means any work, whether in Source or Object form, that is based on (or derived from) the Software and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.
+"Derivative Works" means any work, whether in Source or Object form, that is
+based on (or derived from) the Software and for which the editorial
+revisions, annotations, elaborations, or other modifications represent, as a
+whole, an original work of authorship.
 
 1. Grant of Rights
 
-Subject to the terms of this License, the Licensor grants you a worldwide, royalty-free, non-exclusive, non-transferable license to use, reproduce, modify, distribute, and sublicense the Software, provided you comply with the following conditions.
+Subject to the terms of this License, the Licensor grants you a worldwide,
+royalty-free, non-exclusive, non-transferable license to use, reproduce,
+modify, distribute, and sublicense the Software, provided you comply with
+the following conditions.
 
 2. Attribution
 
-You must give appropriate credit to the original author of the Software, provide a link to the license, and indicate if changes were made. This attribution must be included in any documentation and, where feasible, in the software's user interface.
+You must give appropriate credit to the original author of the Software,
+provide a link to the license, and indicate if changes were made. This
+attribution must be included in any documentation and, where feasible, in
+the software's user interface.
 
 Attribution should be made in the following manner, where feasible:
 
-In digital products: via an easily accessible 'About' or 'Credits' section that includes the original author's name, a link to the software license, and a note of any changes made.
+In digital products: via an easily accessible 'About' or 'Credits' section
+that includes the original author's name, a link to the software license,
+and a note of any changes made.
 
-In physical products: within the product documentation, including the original author's name, a reference to the software license, and a note of any changes made.
+In physical products: within the product documentation, including the
+original author's name, a reference to the software license, and a note of
+any changes made.
 
 3. Non-Commercial Use
 
@@ -28,50 +49,100 @@ The Software may not be used for Commercial Use.
 
 4. Share Alike
 
-If you modify, transform, or build upon the Software, you must distribute the resulting work only under the same license as this one. If you distribute the Software in its original or modified form, you must include the source code or make it readily available to recipients.
+If you modify, transform, or build upon the Software, you must distribute
+the resulting work only under the same license as this one. If you
+distribute the Software in its original or modified form, you must include
+the source code or make it readily available to recipients.
 
 5. Disclaimer of Warranty
 
-The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
+The Software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, or non-infringement.
 
 6. Limitation of Liability
 
-In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software. Licensees are encouraged to perform their due diligence to assess the Software's fitness for the intended use.
+In no event shall the authors or copyright holders be liable for any claim,
+damages, or other liability, whether in an action of contract, tort or
+otherwise, arising from, out of, or in connection with the Software or the
+use or other dealings in the Software. Licensees are encouraged to perform
+their due diligence to assess the Software's fitness for the intended use.
 
 7. Termination and Remedies for Breach
 
-a. Cure Period: Upon breach of any term of this License, the licensee shall have a cure period of 30 days to remedy the breach. Failure to remedy the breach within this period may result in penalties, fines, or termination of the license at the discretion of the licensor.
+a. Cure Period: Upon breach of any term of this License, the licensee shall
+have a cure period of 30 days to remedy the breach. Failure to remedy the
+breach within this period may result in penalties, fines, or termination of
+the license at the discretion of the licensor.
 
-b. Penalties and Fines: If the licensee fails to remedy the breach within the cure period, the licensor may impose reasonable penalties or fines as an alternative or precursor to termination. The amount and nature of such penalties or fines shall be commensurate with the nature and severity of the breach, and designed to encourage compliance while compensating for any damages or administrative burdens incurred by the licensor due to the breach.
+b. Penalties and Fines: If the licensee fails to remedy the breach within
+the cure period, the licensor may impose reasonable penalties or fines as an
+alternative or precursor to termination. The amount and nature of such
+penalties or fines shall be commensurate with the nature and severity of the
+breach, and designed to encourage compliance while compensating for any
+damages or administrative burdens incurred by the licensor due to the
+breach.
 
-c. Notice and Opportunity to Cure: Before imposing any penalties, fines, or proceeding to termination, the licensor shall provide the licensee with written notice of the breach and the intended remedy (penalties, fines, or termination). The licensee shall be granted an additional period of 15 days to address the breach before any penalties or fines are imposed or the license is terminated.
+c. Notice and Opportunity to Cure: Before imposing any penalties, fines, or
+proceeding to termination, the licensor shall provide the licensee with
+written notice of the breach and the intended remedy (penalties, fines, or
+termination). The licensee shall be granted an additional period of 15 days
+to address the breach before any penalties or fines are imposed or the
+license is terminated.
 
-d. Payment of Penalties or Fines: Payment of any imposed penalties or fines does not absolve the licensee of the obligation to remedy the breach. Failure to pay imposed penalties or fines within the specified timeframe will result in automatic termination of the license.
+d. Payment of Penalties or Fines: Payment of any imposed penalties or fines
+does not absolve the licensee of the obligation to remedy the breach.
+Failure to pay imposed penalties or fines within the specified timeframe
+will result in automatic termination of the license.
 
-e. Dispute Resolution: In the event of a dispute regarding the imposition of penalties or fines, the parties agree to seek resolution through the dispute resolution mechanisms outlined in Section 11.
+e. Dispute Resolution: In the event of a dispute regarding the imposition of
+penalties or fines, the parties agree to seek resolution through the dispute
+resolution mechanisms outlined in Section 11.
 
-f. Reinstatement: If the licensee remedies the breach and pays any imposed penalties or fines, the licensor may, at their discretion, reinstate the license, subject to any terms deemed appropriate by the licensor to prevent future breaches.
+f. Reinstatement: If the licensee remedies the breach and pays any imposed
+penalties or fines, the licensor may, at their discretion, reinstate the
+license, subject to any terms deemed appropriate by the licensor to prevent
+future breaches.
 
 8. Sublicensing
 
-Sublicenses must be granted under the same terms and conditions of this License, including all obligations and restrictions. The original licensee remains responsible for ensuring that any sublicensed parties comply with the terms of this License.
+Sublicenses must be granted under the same terms and conditions of this
+License, including all obligations and restrictions. The original licensee
+remains responsible for ensuring that any sublicensed parties comply with
+the terms of this License.
 
 9. Patent Rights
 
-This license does not grant any rights under patent claims of the licensor or contributors, whether already known or hereafter acquired. If the Software incorporates or is based on patented technology, the licensee is responsible for obtaining the necessary licenses from the patent holder(s). The licensor agrees to provide notice, to the extent possible, of any patented technology included in the Software.
+This license does not grant any rights under patent claims of the licensor
+or contributors, whether already known or hereafter acquired. If the
+Software incorporates or is based on patented technology, the licensee is
+responsible for obtaining the necessary licenses from the patent holder(s).
+The licensor agrees to provide notice, to the extent possible, of any
+patented technology included in the Software.
 
 10. Distribution of Source Code
 
-All distribution of the Software or its Derivative Works must include access to the source code. For binary distribution, an offer must be made to provide the source code.
+All distribution of the Software or its Derivative Works must include access
+to the source code. For binary distribution, an offer must be made to
+provide the source code.
 
 11. Jurisdiction and Governing Law
 
-This License and any disputes arising out of or related to it shall be governed by the principles of international commercial law. For any dispute not resolved by mutual agreement, the parties agree first to attempt resolution through arbitration before resorting to litigation.
+This License and any disputes arising out of or related to it shall be
+governed by the principles of international commercial law. For any dispute
+not resolved by mutual agreement, the parties agree first to attempt
+resolution through arbitration before resorting to litigation.
 
 12. Severability
 
-If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable, and the remaining provisions of this License shall remain in full force and effect.
+If any provision of this License is held to be unenforceable, such provision
+shall be reformed only to the extent necessary to make it enforceable, and
+the remaining provisions of this License shall remain in full force and
+effect.
 
 13. Versioning and Updates
 
-The Licensor reserves the right to release updated versions of this License. The licensee may be notified of any changes and may choose to continue under the terms of the version under which the license was originally granted or adopt the updated version.
+The Licensor reserves the right to release updated versions of this License.
+The licensee may be notified of any changes and may choose to continue under
+the terms of the version under which the license was originally granted or
+adopt the updated version.
