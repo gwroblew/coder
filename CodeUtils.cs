@@ -585,10 +585,12 @@ design abstract class following instructions from TODO comments
         if (File.Exists(keyFilePath))
         {
             API_KEY = File.ReadAllText(keyFilePath).Trim();
+            return;
         }
         else if (File.Exists(altKeyFilePath))
         {
             API_KEY = File.ReadAllText(altKeyFilePath).Trim();
+            return;
         }
         Console.WriteLine("Cannot find openai.key!");
         Environment.Exit(-1);
