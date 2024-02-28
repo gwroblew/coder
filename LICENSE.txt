@@ -1,4 +1,4 @@
-Non-Commercial ShareAlike Software License (NCSSL) Version 1.0
+Non-Commercial ShareAlike Software License (NCSSL) Version 1.1
 
 Definitions
 
@@ -104,6 +104,13 @@ penalties or fines, the licensor may, at their discretion, reinstate the
 license, subject to any terms deemed appropriate by the licensor to prevent
 future breaches.
 
+g. Network Use Compliance: In cases where the Software is made available
+over a network, the licensor reserves the right to request a demonstration
+of compliance with the Network Use as Distribution provision. Failure to
+demonstrate compliance within a reasonable timeframe, as determined by the
+licensor, constitutes a breach of this license, subject to the remedies and
+breach procedures outlined in this section.
+
 8. Sublicensing
 
 Sublicenses must be granted under the same terms and conditions of this
@@ -122,25 +129,37 @@ patented technology included in the Software.
 
 10. Distribution of Source Code
 
-All distribution of the Software or its Derivative Works must include access
-to the source code. For binary distribution, an offer must be made to
-provide the source code.
+All distribution of the Software or its Derivative Works, including those
+made available over a network, must include access to the source code.
+For binary or network distribution, an offer must be made to provide the
+source code. This offer must be easily accessible to users of the software,
+ensuring that all recipients, including those accessing the software
+remotely, have the ability to obtain the source code as per the terms of
+this License.
 
-11. Jurisdiction and Governing Law
+11. Network Use as Distribution.
+
+If you operate the Software or any Derivative Works as part of a service
+accessible to third parties over a network, you must either provide the
+complete source code for the Software and Derivative Works used to provide
+the service under the terms of this License, or make the source code
+available through a network server that is accessible free of charge.
+
+12. Jurisdiction and Governing Law
 
 This License and any disputes arising out of or related to it shall be
 governed by the principles of international commercial law. For any dispute
 not resolved by mutual agreement, the parties agree first to attempt
 resolution through arbitration before resorting to litigation.
 
-12. Severability
+13. Severability
 
 If any provision of this License is held to be unenforceable, such provision
 shall be reformed only to the extent necessary to make it enforceable, and
 the remaining provisions of this License shall remain in full force and
 effect.
 
-13. Versioning and Updates
+14. Versioning and Updates
 
 The Licensor reserves the right to release updated versions of this License.
 The licensee may be notified of any changes and may choose to continue under
